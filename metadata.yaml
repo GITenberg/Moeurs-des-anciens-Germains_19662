@@ -1,0 +1,44 @@
+_repo: Moeurs-des-anciens-Germains_19662
+_version: 0.1.0
+alternative_title: Germania
+contributor:
+  translator:
+    agent_name: Le Gendre, Louis
+    alias: Gendre, Louis Le
+    birthdate: 1655
+    deathdate: 1733
+    gutenberg_agent_id: '8810'
+    url: http://www.gutenberg.org/2009/agents/8810
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tacitus, Cornelius
+    aliases:
+    - Tacitus, Publius Cornelius
+    - Tacitus, Caius Cornelius
+    - Tacitus, Gaius Cornelius
+    birthdate: 56
+    deathdate: 117
+    gutenberg_agent_id: '2591'
+    url: http://www.gutenberg.org/2009/agents/2591
+    wikipedia: http://en.wikipedia.org/wiki/Tacitus
+description: ''
+gutenberg_bookshelf:
+- Classical Antiquity
+- Germany
+- FR Peuples et Sociétés
+gutenberg_issued: '2006-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19662'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Germanic peoples -- Early works to 1800'
+title: Moeurs des anciens Germains
+url: http://www.gutenberg.org/ebooks/19662
