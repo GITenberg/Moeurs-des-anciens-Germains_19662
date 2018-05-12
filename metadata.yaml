@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2591
     wikipedia: http://en.wikipedia.org/wiki/Tacitus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19662#Moeurs-des-anciens-Germains
 gutenberg_bookshelf:
 - Classical Antiquity
 - Germany
